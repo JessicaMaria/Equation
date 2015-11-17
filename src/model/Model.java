@@ -5,6 +5,6 @@ package model;
  */
 public class Model {
     public static void main(String[] args) {
-        System.out.println("Aqui en el modelo");
+        System.out.println("Dinamic Duo");
     }
 }
