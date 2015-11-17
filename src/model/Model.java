@@ -1,5 +1,8 @@
 package model;
 
+
+// Jéssica y Macarena
+
 /**
  * Created by usuario on 17/11/2015.
  */
